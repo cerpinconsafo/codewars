@@ -5,7 +5,7 @@
 
 
 // cerpinconsafo
-// https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/javascript
+// https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/solutions/javascript/all/best_practice
 
 function repeatStr (n, s) {
     let newString = '';
