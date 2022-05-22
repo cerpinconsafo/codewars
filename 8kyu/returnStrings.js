@@ -16,5 +16,7 @@
 
 //https://www.codewars.com/kata/55a70521798b14d4750000a4/solutions/javascript/all/best_practices
 
-[Make sure you type the exact thing I wrote or the program may not execute properly]
+// [Make sure you type the exact thing I wrote or the program may not execute properly]
+
+
 let greet = name => `Hello, ${name} how are you doing today?`
