@@ -1,13 +1,8 @@
 
 // 8 kyu
 // Define a card suit
-// 683893% of 1,2454,515 of 8,786Dmitry Kudla
 
 //     JavaScript
-//     Node v14.x
-
-//         VIM
-//         EMACS
 
 // Instructions
 // Output

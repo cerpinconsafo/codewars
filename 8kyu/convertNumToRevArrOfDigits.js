@@ -2,18 +2,8 @@
 
 // 8 kyu
 // Convert number to reversed array of digits
-// 95822091% of 7,53534,641 of 78,720emporio
+
 // JavaScript
-// Train AgainNext Kata
-
-//     Details
-//     Solutions
-//     Forks (14)
-//     Discourse (313)
-//     Translations
-
-// Fork|Collect|
-// Convert number to reversed array of digits
 
 // Given a random non-negative number, you have to return the digits of this number within an array in reverse order.
 // Example:

@@ -1,21 +1,7 @@
 // 7 kyu
 // Descending Order
-// 208435389% of 17,93661,600 of 160,901TastyOs
+
 // JavaScript
-// Train AgainNext Kata
-
-//     Details
-//     Solutions
-//     Forks (213)
-//     Discourse (797)
-//     Translations
-
-// Fork|Collect|
-// How satisfied are you with this kata?
-
-//     Very
-//     Somewhat
-//     None
 
 // Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 // Examples:

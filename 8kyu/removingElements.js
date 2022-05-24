@@ -1,17 +1,10 @@
 
 // 8 kyu
 // Removing Elements
-// 30714193% of 3,52416,241 of 27,602MorgzC41
 
 //     JavaScript
 //     Node v14.x
 
-//         VIM
-//         EMACS
-
-// Instructions
-// Output
-// Past Solutions
 
 // Take an array and remove every second element from the array. Always keep the first element and start removing with the next element.
 

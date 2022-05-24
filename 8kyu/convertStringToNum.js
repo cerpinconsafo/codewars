@@ -1,13 +1,6 @@
 
 // 8 kyu
 // Convert a String to a Number!
-// 40412988% of 7,59638,164 of 94,063bkaes1 Issue Reported
-
-//     JavaScript
-//     Node v10.x
-
-//         VIM
-//         EMACS
 
 // Instructions
 // Output

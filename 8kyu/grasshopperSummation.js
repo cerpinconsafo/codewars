@@ -1,17 +1,12 @@
 
 // 8 kyu
 // Grasshopper - Summation
-// 80325591% of 11,16742,169 of 116,448danleavitt01 Issue Reported
 
 //     JavaScript
 //     Node v8.1.3
 
-//         VIM
-//         EMACS
-
 // Instructions
 // Output
-// Summation
 
 // Write a program that finds the summation of every number from 1 to num. The number will always be a positive integer greater than 0.
 

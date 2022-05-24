@@ -1,13 +1,9 @@
 
 // 8 kyu
 // Beginner - Reduce but Grow
-// 29311092% of 5,07518,157 of 45,303PG11 Issue Reported
 
 //     JavaScript
 //     Node v14.x
-
-//         VIM
-//         EMACS
 
 // Instructions
 // Output

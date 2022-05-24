@@ -1,16 +1,8 @@
 // 8 kyu
 // Returning Strings
-// 27210588% of 6,96831,064 of 80,704Aweson1
+
 // JavaScript
-// Train AgainNext Kata
 
-//     Details
-//     Solutions
-//     Forks (4)
-//     Discourse (144)
-//     Translations
-
-// Fork|Collect|
 
 // Make a function that will return a greeting statement that uses an input; your program should return, "Hello, <name> how are you doing today?".
 

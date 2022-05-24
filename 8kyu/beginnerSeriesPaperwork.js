@@ -1,16 +1,11 @@
 
 // 8 kyu
 // Beginner Series #1 School Paperwork
-// 2827490% of 5,48024,422 of 53,573Vortus
+
 
 //     JavaScript
 //     Node v14.x
 
-//         VIM
-//         EMACS
-
-// Instructions
-// Output
 
 // Your classmates asked you to copy some paperwork for them. You know that there are 'n' classmates and the paperwork has 'm' pages.
 

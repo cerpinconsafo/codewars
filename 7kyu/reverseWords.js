@@ -1,17 +1,8 @@
 
 // 7 kyu
 // Reverse words
-// 109226190% of 5,97526,394 of 61,461jnicol
+
 // JavaScript
-// Train AgainNext Kata
-
-//     Details
-//     Solutions
-//     Forks (14)
-//     Discourse (419)
-//     Translations
-
-// Fork|Collect|
 
 // Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
 // Examples
