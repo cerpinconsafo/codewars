@@ -1,18 +1,13 @@
 // 8 kyu
 // Even or Odd
-
-
+// 
+// 
 // Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
-
+// 
+// 
 //my solution
 // use a ternary operator and es6 to make a clean and quick function
 let evenOrOdd = number => (number % 2 == 0) ? "Even":"Odd"
-// 
-// 
-// 
-// 
-// 
-// 
 // 
 // 
 // 
