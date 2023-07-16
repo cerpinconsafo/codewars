@@ -2,8 +2,6 @@
 // 8 kyu
 // Grasshopper - Debug sayHello
 
-
-
 // Instructions
 // Output
 // Debugging sayHello function
@@ -15,8 +13,12 @@
 // Hello, Mr. Spock
 
 // Fundamentals
+// https://www.codewars.com/kata/5625618b1fe21ab49f00001f/solutions/javascript
 
+// my solution 
 
 function sayHello(name) {
     return 'Hello, ' +name
   }
+
+  
